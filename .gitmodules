@@ -1,0 +1,3 @@
+[submodule "SwipeToDismissUndoList"]
+	path = SwipeToDismissUndoList
+	url = git@github.com:chris84948/SwipeToDismissUndoList.git
